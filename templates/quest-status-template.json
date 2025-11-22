@@ -1,0 +1,13 @@
+{
+  "projectName": "PROJECT_NAME",
+  "description": "Brief project description",
+  "status": "active",
+  "priority": "medium",
+  "lastUpdated": "2025-11-16T00:00:00Z",
+  "progressPercent": 0,
+  "currentFocus": "What you're working on now",
+  "blockers": [],
+  "completedTasks": [],
+  "upcomingTasks": [],
+  "notes": ""
+}

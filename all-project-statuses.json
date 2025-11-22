@@ -1,0 +1,192 @@
+﻿{
+    "projects":  [
+                     {
+                         "projectName":  "ADHD Quest Coach",
+                         "description":  "RPG-style gamified task management system for ADHD-friendly productivity",
+                         "status":  "active",
+                         "priority":  "high",
+                         "lastUpdated":  "2025-11-16T00:00:00Z",
+                         "progressPercent":  95,
+                         "currentFocus":  "Daily gentle check-in and AI certification tracking",
+                         "blockers":  [
+
+                                      ],
+                         "completedTasks":  [
+                                                "Core quest system with 42+ quests",
+                                                "GitHub sync integration",
+                                                "XP, levels, streaks tracking",
+                                                "Mood check-ins and history",
+                                                "Brain dump with voice input",
+                                                "Priority-based sorting",
+                                                "Comprehensive console logging",
+                                                "Sync and activity log viewers",
+                                                "Daily gentle check-in for AI study"
+                                            ],
+                         "upcomingTasks":  [
+                                               "Mobile responsive optimization",
+                                               "Push notifications",
+                                               "Import/export state to file"
+                                           ],
+                         "notes":  "Core app for tracking all other projects. Now includes AI certification quest chain."
+                     },
+                     {
+                         "projectName":  "AI Certification Path",
+                         "description":  "Azure AI-102, AWS ML, Google ML Engineer certifications for career advancement",
+                         "status":  "active",
+                         "priority":  "high",
+                         "lastUpdated":  "2025-11-16T00:00:00Z",
+                         "progressPercent":  0,
+                         "currentFocus":  "Azure AI Engineer Associate (AI-102) - First certification",
+                         "blockers":  [
+
+                                      ],
+                         "completedTasks":  [
+
+                                            ],
+                         "upcomingTasks":  [
+                                               "Sign up for Microsoft Learn",
+                                               "Complete Azure AI Fundamentals",
+                                               "Study Cognitive Services",
+                                               "Take practice tests",
+                                               "Schedule AI-102 exam"
+                                           ],
+                         "certifications":  {
+                                                "azure-ai-102":  {
+                                                                     "name":  "Azure AI Engineer Associate",
+                                                                     "status":  "in_progress",
+                                                                     "progress":  0,
+                                                                     "estimatedCost":  165,
+                                                                     "estimatedWeeks":  4
+                                                                 },
+                                                "aws-ml-specialty":  {
+                                                                         "name":  "AWS ML Specialty",
+                                                                         "status":  "locked",
+                                                                         "progress":  0,
+                                                                         "estimatedCost":  300,
+                                                                         "estimatedWeeks":  6
+                                                                     },
+                                                "google-ml-engineer":  {
+                                                                           "name":  "Google Professional ML Engineer",
+                                                                           "status":  "locked",
+                                                                           "progress":  0,
+                                                                           "estimatedCost":  200,
+                                                                           "estimatedWeeks":  8
+                                                                       }
+                                            },
+                         "notes":  "ADHD-friendly approach: 10-30 min modules, use Claude Code to help study, no guilt for rest days"
+                     },
+                     {
+                         "projectName":  "Mawlid Songs Album",
+                         "description":  "10-song album of traditional Mawlid/Islamic songs with modern production",
+                         "status":  "active",
+                         "priority":  "medium",
+                         "lastUpdated":  "2025-11-16T00:00:00Z",
+                         "progressPercent":  0,
+                         "currentFocus":  "Song selection and arrangement planning",
+                         "blockers":  [
+
+                                      ],
+                         "completedTasks":  [
+
+                                            ],
+                         "upcomingTasks":  [
+                                               "Select 10 traditional songs",
+                                               "Create arrangements for each song",
+                                               "Record vocals",
+                                               "Mix and master",
+                                               "Release and distribute"
+                                           ],
+                         "songs":  [
+                                       {
+                                           "title":  "Song 1",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 2",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 3",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 4",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 5",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 6",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 7",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 8",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 9",
+                                           "status":  "pending"
+                                       },
+                                       {
+                                           "title":  "Song 10",
+                                           "status":  "pending"
+                                       }
+                                   ],
+                         "notes":  "Can work on songs in any order based on energy/mood"
+                     },
+                     {
+                         "project":  "personal-urgent",
+                         "projectPath":  "/Volumes/Ai/Projects/personal-urgent",
+                         "lastSyncedAt":  "2025-11-14T14:54:19.936Z",
+                         "lastSyncedFrom":  "Quest Coach",
+                         "completedQuests":  [
+                                                 {
+                                                     "questName":  "Uber driver app paperwork submit",
+                                                     "questId":  "quest-uber-2023",
+                                                     "completedAt":  "2025-11-13T12:21:15.000Z",
+                                                     "xpEarned":  100,
+                                                     "category":  "urgent"
+                                                 },
+                                                 {
+                                                     "questName":  "Quest Coach - Development \u0026 Enhancement",
+                                                     "completedAt":  "2025-11-14T10:00:00.000Z",
+                                                     "xpEarned":  60,
+                                                     "category":  "work"
+                                                 }
+                                             ],
+                         "totalXPEarned":  160
+                     },
+                     {
+                         "projectName":  "Umayyad Mosque Sound System",
+                         "description":  "Professional audio system assessment and proposal for Umayyad Mosque Damascus",
+                         "status":  "completed",
+                         "priority":  "low",
+                         "lastUpdated":  "2025-11-13T00:00:00Z",
+                         "progressPercent":  100,
+                         "currentFocus":  "Project delivered",
+                         "blockers":  [
+
+                                      ],
+                         "completedTasks":  [
+                                                "Comprehensive research and analysis",
+                                                "Acoustic simulation and calculations",
+                                                "Technical specifications document",
+                                                "Final PDF report with all diagrams",
+                                                "Vendor RFQ documentation"
+                                            ],
+                         "upcomingTasks":  [
+
+                                           ],
+                         "notes":  "Delivered complete sound system proposal with frequency analysis and speaker placement recommendations"
+                     }
+                 ],
+    "totalProjects":  26,
+    "projectsWithStatus":  5,
+    "lastUpdated":  "2025-11-16T17:01:19Z"
+}

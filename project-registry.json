@@ -1,0 +1,145 @@
+{
+  "projects": {
+    "ai-courses": {
+      "path": "D:/Projects/ai-courses",
+      "type": "other",
+      "domain": "application-systems",
+      "branch": "main",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/ai-courses.git"
+    },
+    "Application": {
+      "path": "D:/Projects/Application",
+      "type": "python",
+      "domain": "application-systems",
+      "branch": "master",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/job-applications"
+    },
+    "Entertainment-Hub": {
+      "path": "D:/Projects/Entertainment-Hub",
+      "type": "other",
+      "domain": "unknown",
+      "branch": "main",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/Entertainment-Hub.git"
+    },
+    "Halwiyat": {
+      "path": "D:/Projects/Halwiyat",
+      "type": "node",
+      "domain": "game-development",
+      "branch": "main",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/arabian-sweets-empire"
+    },
+    "invoices": {
+      "path": "D:/Projects/invoices",
+      "type": "web",
+      "domain": "content-creation",
+      "branch": null,
+      "hasUncommittedChanges": false,
+      "remote": null
+    },
+    "Karazah-Website": {
+      "path": "D:/Projects/Karazah-Website",
+      "type": "node",
+      "domain": "web-development",
+      "branch": "master",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/Karazah.git"
+    },
+    "Kinda": {
+      "path": "D:/Projects/Kinda",
+      "type": "web",
+      "domain": "content-creation",
+      "branch": null,
+      "hasUncommittedChanges": false,
+      "remote": null
+    },
+    "leen": {
+      "path": "D:/Projects/leen",
+      "type": "web",
+      "domain": "web-development",
+      "branch": null,
+      "hasUncommittedChanges": false,
+      "remote": null
+    },
+    "Maya-Resume": {
+      "path": "D:/Projects/Maya-Resume",
+      "type": "web",
+      "domain": "content-creation",
+      "branch": null,
+      "hasUncommittedChanges": false,
+      "remote": null
+    },
+    "MSU-Oct2025": {
+      "path": "D:/Projects/MSU-Oct2025",
+      "type": "web",
+      "domain": "content-creation",
+      "branch": "main",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/MSU-Oct2025.git"
+    },
+    "p-o-h": {
+      "path": "D:/Projects/p-o-h",
+      "type": "node",
+      "domain": "game-development",
+      "branch": "main",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/p-o-h.git"
+    },
+    "p-o-h-backup-local": {
+      "path": "D:/Projects/p-o-h-backup-local",
+      "type": "node",
+      "domain": "game-development",
+      "branch": null,
+      "hasUncommittedChanges": false,
+      "remote": null
+    },
+    "personal finance": {
+      "path": "D:/Projects/personal finance",
+      "type": "python",
+      "domain": "application-systems",
+      "branch": "master",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/personal-finance-management.git"
+    },
+    "syrian-memory-game": {
+      "path": "D:/Projects/syrian-memory-game",
+      "type": "web",
+      "domain": "game-development",
+      "branch": "main",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/syrian-memory-game.git"
+    },
+    "tarboush": {
+      "path": "D:/Projects/tarboush",
+      "type": "web",
+      "domain": "game-development",
+      "branch": "main",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/Tarboush.git"
+    },
+    "website": {
+      "path": "D:/Projects/website",
+      "type": "web",
+      "domain": "web-development",
+      "branch": "main",
+      "hasUncommittedChanges": false,
+      "remote": "https://github.com/thewahish/website.git"
+    },
+    "website2.0": {
+      "path": "D:/Projects/website2.0",
+      "type": "web",
+      "domain": "web-development",
+      "branch": "main",
+      "hasUncommittedChanges": true,
+      "remote": "https://github.com/thewahish/website2.0.git"
+    }
+  },
+  "lastUpdated": "2025-10-24T01:36:25.255Z",
+  "totalProjects": 17,
+  "projectsPath": "D:/Projects",
+  "masterPath": "D:/.Master",
+  "platform": "windows"
+}
