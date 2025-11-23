@@ -1,0 +1,21 @@
+{
+  "projectName": "master-claude-instructions",
+  "status": "active",
+  "priority": "high",
+  "progressPercent": 50,
+  "currentFocus": "Centralized Claude Code instructions and best practices",
+  "completedTasks": [
+    "Project cloned from GitHub",
+    "Initial master instructions documented"
+  ],
+  "upcomingTasks": [
+    "Sync with /Volumes/Ai/CLAUDE.md instructions",
+    "Document all standard operating procedures",
+    "Create templates for common tasks",
+    "Add project-specific instruction snippets",
+    "Version control for instruction evolution",
+    "Distribute to all project .claude folders"
+  ],
+  "blockers": [],
+  "notes": "Master instruction repository. Should be kept in sync with /Volumes/Ai/CLAUDE.md and distributed across all projects."
+}
